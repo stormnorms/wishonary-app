@@ -1,0 +1,100 @@
+2020-03-16T09:14:51+00:00 CRITICAL Uncaught Error: Call to undefined function yz_get_settings_url() in /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/inc/functions/helpers.php:1533
+Stack trace:
+#0 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/nav-menu-template.php(155): olympus_bp_menu(Array)
+#1 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/templates/user/vcard.php(55): wp_nav_menu(Object(stdClass))
+#2 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/template.php(724): require('/home/216375.cl...')
+#3 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/template.php(671): load_template('/home/216375.cl...', false)
+#4 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#5 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/templates/user/notifications.php(239): get_template_part('templates/user/...')
+#6 /home/216375.cloudwaysa in /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/inc/functions/helpers.php on line 1533
+
+2020-03-16T09:15:05+00:00 CRITICAL Uncaught Error: Call to undefined function yz_get_settings_url() in /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/inc/functions/helpers.php:1533
+Stack trace:
+#0 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/nav-menu-template.php(155): olympus_bp_menu(Array)
+#1 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/templates/user/vcard.php(55): wp_nav_menu(Object(stdClass))
+#2 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/template.php(724): require('/home/216375.cl...')
+#3 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/template.php(671): load_template('/home/216375.cl...', false)
+#4 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#5 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/templates/user/notifications.php(239): get_template_part('templates/user/...')
+#6 /home/216375.cloudwaysa in /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/inc/functions/helpers.php on line 1533
+
+2020-03-16T09:15:18+00:00 CRITICAL Uncaught Error: Call to undefined function yz_get_settings_url() in /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/inc/functions/helpers.php:1533
+Stack trace:
+#0 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/nav-menu-template.php(155): olympus_bp_menu(Array)
+#1 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/templates/user/vcard.php(55): wp_nav_menu(Object(stdClass))
+#2 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/template.php(724): require('/home/216375.cl...')
+#3 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/template.php(671): load_template('/home/216375.cl...', false)
+#4 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#5 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/templates/user/notifications.php(239): get_template_part('templates/user/...')
+#6 /home/216375.cloudwaysa in /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/inc/functions/helpers.php on line 1533
+
+2020-03-16T09:15:22+00:00 CRITICAL Uncaught Error: Call to undefined function yz_get_settings_url() in /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/inc/functions/helpers.php:1533
+Stack trace:
+#0 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/nav-menu-template.php(155): olympus_bp_menu(Array)
+#1 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/templates/user/vcard.php(55): wp_nav_menu(Object(stdClass))
+#2 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/template.php(724): require('/home/216375.cl...')
+#3 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/template.php(671): load_template('/home/216375.cl...', false)
+#4 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#5 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/templates/user/notifications.php(239): get_template_part('templates/user/...')
+#6 /home/216375.cloudwaysa in /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/inc/functions/helpers.php on line 1533
+
+2020-03-16T09:15:26+00:00 CRITICAL Uncaught Error: Call to undefined function yz_get_settings_url() in /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/inc/functions/helpers.php:1533
+Stack trace:
+#0 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/nav-menu-template.php(155): olympus_bp_menu(Array)
+#1 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/templates/user/vcard.php(55): wp_nav_menu(Object(stdClass))
+#2 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/template.php(724): require('/home/216375.cl...')
+#3 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/template.php(671): load_template('/home/216375.cl...', false)
+#4 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#5 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/templates/user/notifications.php(239): get_template_part('templates/user/...')
+#6 /home/216375.cloudwaysa in /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/inc/functions/helpers.php on line 1533
+
+2020-03-16T09:15:31+00:00 CRITICAL Uncaught Error: Call to undefined function yz_get_settings_url() in /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/inc/functions/helpers.php:1533
+Stack trace:
+#0 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/nav-menu-template.php(155): olympus_bp_menu(Array)
+#1 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/templates/user/vcard.php(55): wp_nav_menu(Object(stdClass))
+#2 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/template.php(724): require('/home/216375.cl...')
+#3 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/template.php(671): load_template('/home/216375.cl...', false)
+#4 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#5 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/templates/user/notifications.php(239): get_template_part('templates/user/...')
+#6 /home/216375.cloudwaysa in /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/inc/functions/helpers.php on line 1533
+
+2020-03-16T09:16:06+00:00 CRITICAL Uncaught Error: Call to undefined function yz_get_settings_url() in /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/inc/functions/helpers.php:1533
+Stack trace:
+#0 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/nav-menu-template.php(155): olympus_bp_menu(Array)
+#1 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/templates/user/vcard.php(55): wp_nav_menu(Object(stdClass))
+#2 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/template.php(724): require('/home/216375.cl...')
+#3 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/template.php(671): load_template('/home/216375.cl...', false)
+#4 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#5 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/templates/user/notifications.php(239): get_template_part('templates/user/...')
+#6 /home/216375.cloudwaysa in /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/inc/functions/helpers.php on line 1533
+
+2020-03-16T09:16:11+00:00 CRITICAL Uncaught Error: Call to undefined function yz_get_settings_url() in /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/inc/functions/helpers.php:1533
+Stack trace:
+#0 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/nav-menu-template.php(155): olympus_bp_menu(Array)
+#1 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/templates/user/vcard.php(55): wp_nav_menu(Object(stdClass))
+#2 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/template.php(724): require('/home/216375.cl...')
+#3 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/template.php(671): load_template('/home/216375.cl...', false)
+#4 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#5 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/templates/user/notifications.php(239): get_template_part('templates/user/...')
+#6 /home/216375.cloudwaysa in /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/inc/functions/helpers.php on line 1533
+
+2020-03-16T09:16:16+00:00 CRITICAL Uncaught Error: Call to undefined function yz_get_settings_url() in /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/inc/functions/helpers.php:1533
+Stack trace:
+#0 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/nav-menu-template.php(155): olympus_bp_menu(Array)
+#1 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/templates/user/vcard.php(55): wp_nav_menu(Object(stdClass))
+#2 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/template.php(724): require('/home/216375.cl...')
+#3 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/template.php(671): load_template('/home/216375.cl...', false)
+#4 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#5 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/templates/user/notifications.php(239): get_template_part('templates/user/...')
+#6 /home/216375.cloudwaysa in /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/inc/functions/helpers.php on line 1533
+
+2020-03-16T09:16:23+00:00 CRITICAL Uncaught Error: Call to undefined function yz_get_settings_url() in /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/inc/functions/helpers.php:1533
+Stack trace:
+#0 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/nav-menu-template.php(155): olympus_bp_menu(Array)
+#1 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/templates/user/vcard.php(55): wp_nav_menu(Object(stdClass))
+#2 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/template.php(724): require('/home/216375.cl...')
+#3 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/template.php(671): load_template('/home/216375.cl...', false)
+#4 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#5 /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/templates/user/notifications.php(239): get_template_part('templates/user/...')
+#6 /home/216375.cloudwaysa in /home/216375.cloudwaysapps.com/yguadaxhnc/public_html/wp-content/themes/olympus/inc/functions/helpers.php on line 1533
+

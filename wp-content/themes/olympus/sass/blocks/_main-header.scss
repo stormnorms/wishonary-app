@@ -1,0 +1,114 @@
+/*------------- #MAIN-HEADER --------------*/
+
+
+.main-header {
+  padding: 70px 0 70px 0;
+  max-width: 100%;
+  position: relative;
+  background-position: 50% 50%;
+
+  .content-bg {
+
+    &:before {
+      height: 100%;
+    }
+
+    @keyframes sideupscroll {
+      0% {
+        transform: translate3D(0%, 0%, 0);
+      }
+      50% {
+        transform: translate3D(-50%,  0, 0);
+      }
+      100% {
+        transform: translate3D(-100%, 0, 0);
+      }
+    }
+  }
+
+  &.main-header-has-header-standard {
+    padding-top: 0;
+  }
+}
+
+.img-bottom {
+  position: relative;
+  display: block;
+  margin: 20px auto 0;
+  margin-bottom: -70px;
+}
+
+.bg-account {
+  &:before {
+    background-image: url("../images/top-header3.png");
+  }
+}
+
+.bg-birthday {
+  &:before {
+    background-image: url("../images/top-header6.png");
+  }
+}
+
+.bg-badges {
+  &:before {
+    background-image: url("../images/top-header4.png");
+  }
+}
+
+.bg-events {
+  &:before {
+    background-image: url("../images/top-header5.png");
+  }
+}
+
+.bg-weather {
+  &:before {
+    background-image: url("../images/top-header6.png");
+  }
+}
+
+.bg-group {
+  &:before {
+    background-image: url("../images/bg-group.png");
+  }
+}
+
+.bg-music {
+  &:before {
+    background-image: url("../images/top-header7.png");
+  }
+}
+
+.bg-landing {
+  &:before {
+    background-image: url("../images/landing-bg.jpg");
+  }
+}
+
+.bg-users {
+  background-image: url("../images/bg-users.png");
+}
+
+.main-header-content {
+  color: $white-color;
+  text-align: center;
+
+  & > * {
+	color: inherit;
+  }
+
+  & > *:first-child {
+	font-weight: 300;
+	margin-bottom: 20px;
+  }
+
+  p {
+	font-weight: 400;
+	margin-bottom: 0;
+  }
+}
+
+
+
+/*------------- Responsive mode styles --------------*/

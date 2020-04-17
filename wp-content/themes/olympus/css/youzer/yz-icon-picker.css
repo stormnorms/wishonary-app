@@ -1,0 +1,11 @@
+.ukai_iconPicker .ukai_icon_selector {
+  border: 1px solid #e6ecf5;
+}
+
+.ukai_iconPicker .ukai_icon_selector > i {
+  color: #9a9fbf;
+}
+
+.ukai-icons-list i {
+  border: 1px solid #e6ecf5;
+}

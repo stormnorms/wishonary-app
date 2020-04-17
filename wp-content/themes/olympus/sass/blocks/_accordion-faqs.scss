@@ -1,0 +1,70 @@
+/*------------- #ACCORDION-FAQS WP-B --------------*/
+
+
+.olympus-theme.wpb-js-composer {
+  .vc_tta.vc_general .vc_tta-panel-title > a {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	color: $heading-color;
+
+	.vc_tta-title-text {
+	  font-size: 1.75rem;
+	}
+  }
+
+  .vc_tta-color-white.vc_tta-style-flat:not(.vc_tta-o-no-fill) .vc_tta-panel-body {
+	color: $body-font-color;
+  }
+
+  .vc_tta-color-white.vc_tta-style-flat .vc_active .vc_tta-panel-heading .vc_tta-controls-icon::after,
+  .vc_tta-color-white.vc_tta-style-flat .vc_active .vc_tta-panel-heading .vc_tta-controls-icon:before,
+  .vc_tta-color-white.vc_tta-style-flat .vc_tta-controls-icon::after,
+  .vc_tta-color-white.vc_tta-style-flat .vc_tta-controls-icon:before {
+	border-color: $primary-color;
+	border-color: var(--primary-accent-color);
+  }
+
+  .vc_tta.vc_general .vc_tta-panel {
+	border-bottom: 1px solid $border-color;
+
+	&:last-child {
+	  border-bottom: none;
+	}
+  }
+
+  .vc_tta-color-white.vc_tta-style-flat .vc_tta-panel .vc_tta-panel-heading {
+	background-color: transparent;
+  }
+
+  .vc_tta-color-white.vc_tta-style-flat .vc_tta-panel .vc_tta-panel-heading:focus,
+  .vc_tta-color-white.vc_tta-style-flat .vc_tta-panel .vc_tta-panel-heading:hover {
+	background-color: transparent;
+  }
+
+  .vc_tta-shape-rounded:not(.vc_tta-o-no-fill) .vc_tta-panel.vc_active .vc_tta-panel-body {
+	margin-bottom: 60px;
+  }
+}
+
+
+
+/*================= Responsive Mode ============*/
+
+@media (max-width: 1200px) {
+  .olympus-theme.wpb-js-composer .vc_tta.vc_general .vc_tta-panel-title > a {
+	padding-top: 20px;
+	padding-bottom: 20px;
+  }
+}
+
+@media (max-width: 600px) {
+
+  .olympus-theme.wpb-js-composer .vc_tta.vc_general .vc_tta-panel-title > a {
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+	.vc_tta-title-text {
+	  font-size: 1.25rem;
+	}
+  }
+}

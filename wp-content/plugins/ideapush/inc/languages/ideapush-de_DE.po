@@ -1,0 +1,776 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IdeaPush\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-09 16:24+0000\n"
+"PO-Revision-Date: 2018-03-09 17:02+0000\n"
+"Language-Team: German\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Last-Translator: conversion master <support@saleswonder.biz>\n"
+"Language: de_DE"
+
+#: ideapush.php:39
+msgctxt "Post Type General Name"
+msgid "Ideas"
+msgstr "Ideen"
+
+#: ideapush.php:40
+msgctxt "Post Type Singular Name"
+msgid "Idea"
+msgstr "Idee"
+
+#. Name of the plugin
+#: ideapush.php:41
+msgid "IdeaPush"
+msgstr "IdeaPush"
+
+#: ideapush.php:42
+msgid "Parent Idea"
+msgstr "Eltern Idee:"
+
+#: ideapush.php:43
+msgid "All Ideas"
+msgstr "Alle Ideen"
+
+#: ideapush.php:44
+msgid "View Idea"
+msgstr "Zeige Ideen"
+
+#: ideapush.php:45
+msgid "Add New Idea"
+msgstr "Neue Idee hinzufügen"
+
+#: ideapush.php:46
+msgid "Add New"
+msgstr "Neu hinzufügen"
+
+#: ideapush.php:47
+msgid "Edit Idea"
+msgstr "Idee bearbeiten"
+
+#: ideapush.php:48
+msgid "Update Idea"
+msgstr "Aktualisiere Idee"
+
+#: ideapush.php:49
+msgid "Search Idea"
+msgstr "Suche Idee"
+
+#: ideapush.php:50
+msgid "Not Found"
+msgstr "Nicht gefunden"
+
+#: ideapush.php:51
+msgid "Not found in Trash"
+msgstr "Nicht im Papierkorb gefunden"
+
+#: ideapush.php:56
+msgid "ideas"
+msgstr "ideen"
+
+#: ideapush.php:57
+msgid "IdeaPush ideas"
+msgstr "IdeaPush Ideen"
+
+#: ideapush.php:335
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ideapush.php:786
+msgid "Ideas Pending Release"
+msgstr ""
+
+#: ideapush.php:793
+msgid "Ideas Needing Review"
+msgstr ""
+
+#: inc/templates/ip-tag.php:124 inc/templates/ip-tag.php:132
+#: inc/shortcode/idea-list-items.php:233 inc/shortcode/idea-list-items.php:241
+#: inc/pro-ip/idea-push-pro.php:558
+msgid "Read more"
+msgstr "Weiterlesen"
+
+#: inc/templates/ip-tag.php:134 inc/shortcode/idea-list-items.php:243
+msgid "Read less"
+msgstr ""
+
+#: inc/templates/ip-tag.php:170
+msgid "Previous page"
+msgstr ""
+
+#: inc/templates/ip-tag.php:171
+msgid "Next page"
+msgstr ""
+
+#: inc/templates/ip-tag.php:172
+msgid "Page"
+msgstr ""
+
+#: inc/templates/ip-tag.php:177
+msgid "There are no ideas found for this tag."
+msgstr ""
+
+#: inc/functions/single-idea.php:38 inc/shortcode/ideaboard-shortcode.php:223
+msgid "Please enter your name and email to vote"
+msgstr ""
+"Bitte geben Sie Ihren Namen und Ihre E-Mail-Adresse ein, um Ihre Stimme "
+"abzugeben."
+
+#: inc/functions/single-idea.php:41 inc/shortcode/ideaboard-shortcode.php:226
+msgid "Please ensure all fields are completed and a valid email is entered."
+msgstr ""
+"Bitte vergewissern Sie sich, dass alle Felder ausgefüllt sind und eine "
+"gültige E-Mail Adresse eingegeben wurde."
+
+#: inc/functions/single-idea.php:44
+msgid "Are you sure you want to delete this idea?"
+msgstr "Bist Du sicher, dass Du dies löschen willst?"
+
+#: inc/functions/single-idea.php:47
+msgid "The post has been added to the trash but not permanently deleted."
+msgstr ""
+"Der Beitrag wurde in den Papierkorb gelegt, aber nicht endgültig gelöscht."
+
+#: inc/functions/single-idea.php:50 inc/shortcode/ideaboard-shortcode.php:229
+msgid ""
+"You have reached your daily vote limit or voting has been disabled on this "
+"board."
+msgstr ""
+"Sie haben Ihr tägliches Stimmlimit erreicht oder die Stimmabgabe wurde in "
+"diesem Forum deaktiviert."
+
+#: inc/functions/single-idea.php:66 inc/pro-ip/idea-push-pro.php:584
+msgid "Sorry you do not have permission to view this idea."
+msgstr ""
+
+#: inc/functions/single-idea.php:184
+msgid "Admin Functions"
+msgstr "Admin-Funktionen"
+
+#: inc/functions/single-idea.php:186
+msgid "These quick admin functions are only available to admin users."
+msgstr ""
+"Diese Schnelladministrationsfunktionen stehen nur Administratoren zur "
+"Verfügung."
+
+#: inc/functions/single-idea.php:191
+msgid "Change status:"
+msgstr "Status ändern:"
+
+#: inc/functions/single-idea.php:196
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: inc/functions/single-idea.php:200
+msgid "Delete"
+msgstr "Löschen"
+
+#: inc/shortcode/idea-table-header.php:54
+msgid "Showing"
+msgstr "Sortierung"
+
+#: inc/shortcode/idea-table-header.php:90
+msgid "ideas that are"
+msgstr "Status"
+
+#: inc/shortcode/idea-table-header.php:193
+msgid "with tags"
+msgstr "Tags"
+
+#: inc/shortcode/create-idea-form.php:69
+msgid "First name"
+msgstr "Vorname"
+
+#: inc/shortcode/create-idea-form.php:72
+msgid "Last name"
+msgstr "Nachname"
+
+#: inc/shortcode/create-idea-form.php:75
+msgid "Email"
+msgstr "E-Mail"
+
+#: inc/shortcode/create-idea-form.php:129
+msgid "You can't enter custom tags"
+msgstr ""
+
+#: inc/shortcode/create-idea-form.php:129
+msgid "Enter a unique value"
+msgstr ""
+
+#: inc/shortcode/create-idea-form.php:191
+msgid "Hold on"
+msgstr "Wartend"
+
+#: inc/shortcode/ideaboard-shortcode.php:108
+msgid "Get your idea to"
+msgstr "Ab "
+
+#: inc/shortcode/ideaboard-shortcode.php:108
+msgid "to be reviewed"
+msgstr "Stimmen wird dein Wunsch umgesetzt."
+
+#: inc/shortcode/ideaboard-shortcode.php:190
+msgid "Create an idea"
+msgstr ""
+
+#: inc/shortcode/ideaboard-shortcode.php:206
+msgid "Idea submitted successfully, now showing your ideas"
+msgstr "Die Idee wurde erfolgreich eingereicht und zeigt nun Ihre Ideen."
+
+#: inc/shortcode/ideaboard-shortcode.php:209
+msgid "Your idea has been submitted and will be reviewed soon"
+msgstr "Ihre Idee wurde eingereicht und wird demnächst überprüft."
+
+#: inc/shortcode/ideaboard-shortcode.php:214
+msgid ""
+"Please make sure the reCAPTCHA is validated and all fields are completed"
+msgstr ""
+"Bitte stellen Sie sicher, dass der reCAPTCHA validiert ist und alle Felder "
+"ausgefüllt sind."
+
+#: inc/shortcode/ideaboard-shortcode.php:217
+#: inc/shortcode/ideaboard-shortcode.php:220
+msgid "Please make sure all fields are completed"
+msgstr "Bitte vergewissern Sie sich, dass alle Felder ausgefüllt sind."
+
+#: inc/shortcode/ideaboard-shortcode.php:232
+msgid ""
+"You have reached your daily idea creation limit or idea creation has been "
+"disabled on this board."
+msgstr ""
+"Sie haben Ihr tägliches Ideenschöpfungslimit erreicht oder die "
+"Ideenschöpfung wurde in diesem Forum deaktiviert."
+
+#: inc/shortcode/ideaboard-shortcode.php:241
+msgid "Sorry you do not have permission to view this board."
+msgstr ""
+
+#: inc/shortcode/ideaboard-shortcode.php:247
+msgid "The board number does not exist. Please create a board by going to: "
+msgstr ""
+
+#: inc/shortcode/ideaboard-shortcode.php:247
+msgid "IdeaPush > Settings > Boards"
+msgstr ""
+
+#: inc/shortcode/ideaboard-shortcode.php:253
+msgid ""
+"Please ensure your shortcode parameter has a board number like: <code>"
+"[ideapush board=\"1\"]</code>"
+msgstr ""
+
+#: inc/shortcode/idea-list-items.php:326
+msgid "Attachment"
+msgstr "Anhang"
+
+#: inc/shortcode/idea-list-items.php:367 inc/pro-ip/idea-push-pro.php:539
+msgid "ago"
+msgstr "zuvor"
+
+#: inc/options/options-page-wrapper.php:14
+msgid "| Settings"
+msgstr "Einstellungen"
+
+#: inc/options/options-page-wrapper.php:25
+msgid "Thanks for trying out IdeaPush!"
+msgstr "Danke, dass Sie IdeaPush ausprobiert haben!"
+
+#: inc/options/options-page-wrapper.php:26
+msgid ""
+"<p>To get started simply go to the <a class=\"open-tab\" href=\"#boards\">"
+"Boards</a> tab and create your first board and then using the \"Copy "
+"Shortcode\" button, copy your shortcode and place it on any page. It is "
+"recommended to put this on a page which has a full width design (i.e. no "
+"sidebar).</p>\n"
+"            \n"
+"            <p>The plugin is brand spanking new so please be a little "
+"patient with things. I am committed to improving the plugin and taking on "
+"board ideas - no pun intended. If you do experience an issue please check "
+"out the <a class=\"open-tab\" href=\"#ideapush-support\">Support</a> tab and "
+"we'll try and resolve things. I would also be grateful if you could rate the "
+"plugin 5 stars, it's a nice way to say thank you! <a target=\"_blank\" "
+"href=\"https://wordpress.org/support/plugin/ideapush/reviews/?rate=5#new-"
+"post\"><i class=\"fa fa-star\" aria-hidden=\"true\"></i><i class=\"fa fa-"
+"star\" aria-hidden=\"true\"></i><i class=\"fa fa-star\" aria-hidden=\"true\">"
+"</i><i class=\"fa fa-star\" aria-hidden=\"true\"></i><i class=\"fa fa-star\" "
+"aria-hidden=\"true\"></i></a></p> \n"
+"            "
+msgstr ""
+
+#: inc/options/options-page-wrapper.php:36
+msgid "Upgrade to pro to get awesome features and unlimited boards"
+msgstr ""
+"Upgrade auf Pro, um fantastische Funktionen und unbegrenzte Boards zu "
+"erhalten."
+
+#: inc/options/options-page-wrapper.php:37
+msgid ""
+"<p>Upgrade to pro today for an introductory special of just $40! With the "
+"pro version of the plugin you can make as many boards as your heart desires. "
+"With IdeaPush Pro when users type in a new idea they will get live "
+"suggestions of ideas already submitted that relate to their new idea to "
+"minimise duplication. On the single idea page it also shows related ideas."
+"</p><p>We have also just launched our brand new idea timeline for IdeaPush "
+"Pro which enables you to see all the history of an idea as well as add "
+"internal notes and send emails to voters and the idea author!</p> \n"
+"            \n"
+"            <a target=\"_blank\" href=\"https://northernbeacheswebsites.com."
+"au/ideapush-pro/\" class=\"button button-primary pro-button\">GO PRO NOW</a>"
+"\n"
+"            \n"
+"            "
+msgstr ""
+
+#: inc/options/options-page-wrapper.php:116
+msgid "Save All Settings"
+msgstr "Alle Einstellungen speichern"
+
+#: inc/options/options-page-wrapper.php:177
+msgid "Are you sure you want to delete this board?"
+msgstr "Bist Du sicher, dass Du dies löschen willst?"
+
+#: inc/options/options-output.php:576
+msgid ""
+"These settings update the status names - this only changes the status names "
+"in the front end of idea board and not in the admin area."
+msgstr ""
+"Diese Einstellungen aktualisieren die Statusnamen - dies ändert nur die "
+"Statusnamen im Frontend des Ideenbretts und nicht im Adminbereich."
+
+#: inc/options/options-output.php:595
+msgid "Frequently Asked Questions"
+msgstr "Häufig gestellte Fragen"
+
+#: inc/options/options-output.php:598
+msgid "Why do you recommend putting the shortcode onto a page and not a post?"
+msgstr ""
+"Warum empfehlen Sie, den Shortcode auf eine Seite und nicht auf einen "
+"Beitrag zu setzen?"
+
+#: inc/options/options-output.php:600
+msgid ""
+"You can definitely put the board shortcode onto a post without any issues, "
+"however if you put it onto a page, on the single post we will show a back "
+"button/breadcrumb so people can go back to the main board page."
+msgstr ""
+
+#: inc/options/options-output.php:604
+msgid ""
+"I am a developer, can I hook into some of the events created by the plugin?"
+msgstr ""
+"Ich bin ein Entwickler, kann ich mich in einige der Ereignisse einklinken, "
+"die durch das Plugin erstellt wurden?"
+
+#: inc/options/options-output.php:606
+msgid ""
+"Yes we have developed a variety of action hooks so you can hook into some of "
+"the events created by IdeaPush. Please use the below table to see the action "
+"details:"
+msgstr ""
+"Ja, wir haben eine Vielzahl von Aktionshaken entwickelt, so dass Sie sich in "
+"einige der von IdeaPush erstellten Events einklinken können. Bitte benutzen "
+"Sie die untenstehende Tabelle, um die Details der Aktion zu sehen:"
+
+#: inc/options/options-output.php:765
+msgid ""
+"This specification is still being worked on so please expect changes to "
+"occur. Your feedback on this specification is welcome."
+msgstr ""
+"An dieser Spezifikation wird noch gearbeitet, daher erwarten Sie bitte, dass "
+"es zu Änderungen kommt. Wir freuen uns über Ihr Feedback zu dieser "
+"Spezifikation."
+
+#: inc/options/options-output.php:772
+msgid "Things don't look great, how I can change that?"
+msgstr ""
+
+#: inc/options/options-output.php:774
+msgid ""
+"Because the plugin has quite a lot of frontend design your existing theme or "
+"other plugins may change the style of IdeaPush. The plugin tries to strike a "
+"balance between respecting your existing styles whilst trying to make things "
+"look and work ok. Whilst it's possible to have settings for every possible "
+"thing on the frontend, the plugin would turn into settings overload which "
+"can be quite overwhelming to new users of the plugin who may just want to "
+"get things up and running quickly. To best resolve styling issues it "
+"requires you or someone you know to have <a href=\"https://www.w3schools."
+"com/css/css_intro.asp\" target=\"_blank\">CSS knowledge</a>. You can then "
+"enter in custom CSS code into the Custom CSS field on the <a class=\"open-"
+"tab\" href=\"#design\">Design</a> tab. To help you with some common CSS "
+"changes I have put some quick buttons which implement the CSS code for you "
+"beside this field. If you upgrade to IdeaPush Pro I promise I will give you "
+"around 15 minutes of my time to implement custom styles to make things look "
+"just right."
+msgstr ""
+
+#: inc/options/options-output.php:777
+msgid "Can I have a board show in a fixed height container?"
+msgstr ""
+
+#: inc/options/options-output.php:779
+msgid ""
+"Whilst it is recommended to have a dedicated page for the board page it is "
+"possible to put the board in the middle of other content on your page. To "
+"achieve this we need to put the board shortcode inside a div container. For "
+"example: <xmp><div class=\"ideapush-scrollable-container\" style=\"height: "
+"800px;\">[ideapush board=\"###\"]</div></xmp></br>You can replace the 800px "
+"with whatever height you want."
+msgstr ""
+
+#: inc/options/options-output.php:782
+msgid "How can I change the status or filter shown on the board by default?"
+msgstr ""
+
+#: inc/options/options-output.php:784
+msgid ""
+"It is possible to change this by adding a query string to your URL. For "
+"example: <strong>https://yourwebsites.com/yourpage/?"
+"showing=Popular&status=Reviewed&tag=All</strong>. Just replace \"Reviewed\" "
+"with your desired status name or \"Popular\" with your desired filter and "
+"obviously change the domain and page to your actual domain and board page. "
+"You can now put this URL into your WordPress menu if you wanted to by adding "
+"a custom URL to the menu."
+msgstr ""
+
+#: inc/options/options-output.php:790
+msgid "Support"
+msgstr "Support"
+
+#: inc/options/options-output.php:792
+msgid ""
+"Before making a support request please read the above frequently asked "
+"questions. When submitting a request on the WordPress forum please include "
+"the following information:"
+msgstr ""
+"Bevor Sie eine Support-Anfrage stellen, lesen Sie bitte die oben genannten "
+"häufig gestellten Fragen. Wenn Sie eine Anfrage im WordPress-Forum stellen, "
+"geben Sie bitte die folgenden Informationen an:"
+
+#: inc/options/options-output.php:804
+msgid ""
+"URL's and Screenshots of issues can also be extremely helpful in diagnosing "
+"things so please include this where possible. We typically reply to support "
+"requests within 48 hours. To show your appreciation of our support we would "
+"be grateful if you could give us a <a target=\"_blank\" href=\"https:"
+"//wordpress.org/support/plugin/ideapush/reviews/?rate=5#new-post\">positive "
+"review <i class=\"fa fa-star\" aria-hidden=\"true\"></i><i class=\"fa fa-"
+"star\" aria-hidden=\"true\"></i><i class=\"fa fa-star\" aria-hidden=\"true\">"
+"</i><i class=\"fa fa-star\" aria-hidden=\"true\"></i><i class=\"fa fa-star\" "
+"aria-hidden=\"true\"></i></a>."
+msgstr ""
+
+#: inc/options/options-output.php:828
+msgid ""
+"These options change the settings of the idea submission form used in the "
+"front end area of the idea board."
+msgstr ""
+"Diese Optionen ändern die Einstellungen des Ideeneinreichungsformulars, das "
+"im Frontend-Bereich des Ideenbretts verwendet wird."
+
+#: inc/options/options-output.php:875
+msgid "Board Setting Information"
+msgstr "Informationen zur Board-Einstellung"
+
+#: inc/options/options-output.php:877
+msgid "Board Name"
+msgstr "Kartenname"
+
+#: inc/options/options-output.php:877
+msgid ""
+" - is simply the name of your board and also acts as the title shown at the "
+"top of the idea board."
+msgstr ""
+"ist einfach der Name Ihres Forums und fungiert gleichzeitig als Titel, der "
+"oben auf dem Ideenbrett angezeigt wird."
+
+#: inc/options/options-output.php:879
+msgid "Vote threshold"
+msgstr "Stimmrechtsschwelle"
+
+#: inc/options/options-output.php:879
+msgid ""
+" - is the amount of votes required for an idea to go from open to 'Reviewed' "
+"status."
+msgstr ""
+"ist die Anzahl der Stimmen, die erforderlich ist, damit eine Idee von offen "
+"auf den Status\"Geprüft\" umgestellt werden kann."
+
+#: inc/options/options-output.php:881
+msgid "Hold Ideas"
+msgstr "Halten Sie Ideen"
+
+#: inc/options/options-output.php:881
+msgid ""
+" - by default when people create new ideas it creates a new idea with a "
+"'Pending Review' status. This enables you to check over the idea before it "
+"is published. If you turn this to 'No' ideas will be published immidiately."
+msgstr ""
+"Wenn Leute neue Ideen erstellen, wird standardmäßig eine neue Idee mit dem "
+"Status\"Pending Review\" erstellt. Auf diese Weise können Sie die Idee vor "
+"der Veröffentlichung überprüfen. Wenn Sie dies auf\"Nein\" stellen, werden "
+"die Ideen sofort veröffentlicht."
+
+#: inc/options/options-output.php:883
+msgid "Show Comments"
+msgstr "Kommentare anzeigen"
+
+#: inc/options/options-output.php:883
+msgid ""
+" - whether people will be able to comment on ideas and show comments on the "
+"idea board listing."
+msgstr ""
+"ob die Leute in der Lage sein werden, zu Ideen Stellung zu nehmen und "
+"Kommentare zu den Ideen zu zeigen."
+
+#: inc/options/options-output.php:885
+msgid "Show Tags"
+msgstr "Schlagwörter anzeigen"
+
+#: inc/options/options-output.php:885
+msgid ""
+" - whether people will be able to add tags to an idea and whether tags will "
+"be visible on the idea board listing."
+msgstr ""
+"ob Leute in der Lage sein werden, einer Idee Tags hinzuzufügen und ob Tags "
+"auf der Ideentafel sichtbar sind."
+
+#: inc/options/options-output.php:887
+msgid "Show Attachments"
+msgstr "Anhänge anzeigen"
+
+#: inc/options/options-output.php:887
+msgid ""
+" - whether to enable people to attach an image when creating a new idea from "
+"the idea form."
+msgstr ""
+"ob es den Menschen ermöglicht werden soll, beim Erstellen einer neuen Idee "
+"aus dem Ideenformular ein Bild anzuhängen."
+
+#: inc/options/options-output.php:889
+msgid "Show Board Title"
+msgstr "Zeige Boardtitel"
+
+#: inc/options/options-output.php:889
+msgid " - whether to show the board title above the idea board listing."
+msgstr "ob der Boardtitel über dem Ideenboard angezeigt werden soll."
+
+#: inc/options/options-output.php:891
+msgid "Show Vote Target"
+msgstr "Abstimmungsziel anzeigen"
+
+#: inc/options/options-output.php:891
+msgid ""
+" - whether to show the target vote score for the board which is displayed "
+"just below the board title."
+msgstr ""
+"ob die Zielbewertung für das Brett angezeigt werden soll, die direkt unter "
+"dem Bretttitel angezeigt wird."
+
+#: inc/options/options-output.php:893
+msgid "Guest Votes/Ideas"
+msgstr "Gaststimmen/Ideen"
+
+#: inc/options/options-output.php:893
+msgid ""
+" - whether to enable guests to be able to vote and also publish new ideas. "
+"For a guest to vote or create a new idea they must enter in a name and email "
+"address so it's not fully anonymous. Although guests from their perspective "
+"will appear to be guests, what actually is happening is a user account will "
+"be created for them in WordPress with the user role 'IdeaPush Guest' which "
+"is assigned to the visitors IP Address. This does mean that using a proxy "
+"server is a method for someone to vote multiple times but this is not an "
+"easy process for most and it is a drawback to any guest system."
+msgstr ""
+
+#: inc/options/options-output.php:895
+msgid "Enable Down Voting"
+msgstr "Abwärtsstimmen aktivieren"
+
+#: inc/options/options-output.php:895
+msgid " - enables someone to vote positively or negatively for an idea."
+msgstr "ermöglicht es jemandem, positiv oder negativ für eine Idee zu stimmen."
+
+#: inc/options/options-output.php:897
+msgid "Max Votes/Ideas Per Day"
+msgstr "Maximale Stimmen/Ideen pro Tag"
+
+#: inc/options/options-output.php:897
+msgid ""
+" - these settings set the limit of the maximum amount of times a user can "
+"create an idea or cast a vote. Admin users are excluded from this limit and "
+"can create as many ideas or cast as many votes as they would like. A day "
+"starts from the first idea created or first vote cast and then spans for 24 "
+"hours. A value of minus one or blank means unlimited, a value of zero "
+"essentially blocks further idea creation and voting and a positive value "
+"sets the upper limit. Any vote contributes to the users vote count, this "
+"includes negative votes and votes that are for the same idea or rescinded "
+"votes."
+msgstr ""
+
+#: inc/options/options-output.php:899
+msgid "Hide From Search"
+msgstr ""
+
+#: inc/options/options-output.php:899
+msgid ""
+" - whether to hide ideas associated with this board from WordPress's search."
+msgstr ""
+
+#: inc/options/options-output.php:901
+msgid "Show Board To"
+msgstr ""
+
+#: inc/options/options-output.php:901
+msgid ""
+" - elect to show the board to only a certain WordPress user role. Please "
+"leave on the default \"Everyone\" option to show to everyone (logged in and "
+"logged out visitors)."
+msgstr ""
+
+#: inc/options/options-output.php:934
+msgid "Admin Notifications"
+msgstr "Admin Benachrichtigungen"
+
+#: inc/options/options-output.php:1019
+msgid "Author Notifications"
+msgstr "Benachrichtigungen für Autoren"
+
+#: inc/options/options-output.php:1239
+msgid "Positive Voter Notifications"
+msgstr "Positive Wählerbenachrichtigungen"
+
+#: inc/pro-ip/idea-push-pro.php:249
+msgid "Has your idea already been submitted?"
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:500
+msgid "Related Ideas"
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:885
+msgid "To: "
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:887
+msgid "Positive Voters"
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:888
+msgid "Idea Author"
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:916
+msgid "Email subject"
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:918
+msgid "Email message"
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:920 inc/pro-ip/idea-push-pro.php:930
+msgid "Submit"
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:929
+msgid "Add an internal note to the idea history timeline"
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:999
+msgid "Idea Created"
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:1000
+msgid "Idea Title"
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:1008
+msgid "Email Sent to"
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:1013 inc/pro-ip/idea-push-pro.php:1029
+msgid "Email Subject"
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:1015 inc/pro-ip/idea-push-pro.php:1031
+msgid "Email Content"
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:1024
+msgid "Automated Email Sent to"
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:1040
+msgid "Internal Note"
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:1048
+msgid "Vote Threshold Achieved"
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:1049
+msgid "Vote threshold reached with"
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:1049
+msgid "votes reached. Idea has changed status from open to reviewed."
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:1077
+msgid "Status Changed"
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:1078
+msgid "Status changed from"
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:1078
+msgid "to"
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:1328
+msgid "Reports"
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:1345
+msgid "| Reports"
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:1349
+msgid "Start Date: "
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:1352
+msgid "End Date: "
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:1354
+msgid "Get Reports"
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:1359
+msgid "Activity Report"
+msgstr ""
+
+#: inc/pro-ip/idea-push-pro.php:1363
+msgid "User Report"
+msgstr ""
+
+#. Name of the plugin
+msgid "IdeaPush - Feature Request Manager"
+msgstr ""
+
+#. Description of the plugin
+msgid "IdeaPush is a feature request management system for WordPress"
+msgstr "IdeaPush ist ein Feature Request Management System für WordPress."
+
+#. URI of the plugin
+msgid "https://www.northernbeacheswebsites.com.au"
+msgstr "https://www.northernbeacheswebsites.com.au"
+
+#. Author of the plugin
+msgid "Martin Gibson"
+msgstr "Martin Gibson"

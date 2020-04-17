@@ -1,0 +1,54 @@
+/*------------- #W-BLOG-POSTS --------------*/
+
+
+
+.w-blog-posts {
+    margin-bottom: 0;
+    padding-left: 0;
+
+    .social-post {
+        padding: 25px;
+
+        p {
+            margin: 10px 0 15px 0;
+        }
+    }
+
+    .post__date {
+        font-size: 12px;
+    }
+
+    li:last-child .social-post {
+        border-bottom: none;
+    }
+}
+
+.youzer-sidebar.olympus-theme-sidebar .widget_olympus_latest_posts .widget {
+  border: none;
+}
+
+.widget_olympus_latest_posts {
+    .widget {
+        margin-top: 0;
+
+        & > .ui-block {
+            background-color: transparent;
+            border-radius: 0;
+            border: none;
+            margin-bottom: 0;
+        }
+
+        .post-category {
+            margin-right: 5px;
+            margin-bottom: 15px;
+
+            &:last-child {
+                margin-right: 0;
+            }
+        }
+
+        .blog-post .post-thumb {
+            border-radius: 0;
+        }
+    }
+}

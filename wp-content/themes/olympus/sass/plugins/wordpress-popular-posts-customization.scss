@@ -1,0 +1,48 @@
+@import "../theme-styles/variables";
+
+
+/*------------- #SHOP --------------*/
+
+
+ul.wpp-list {
+
+  li {
+	padding: 15px 25px;
+  }
+
+  .wpp-post-title {
+	display: block;
+	overflow: hidden;
+	width: 100%;
+	color: $heading-color;
+	font-weight: 600;
+	margin-bottom: 10px;
+
+	&:hover {
+	  color: #ff5e3a;
+	  color: var(--primary-accent-color);
+	}
+  }
+
+  .wpp-thumbnail {
+	float: none;
+	margin: 0 0 10px 0;
+	display: block;
+  }
+
+  .wpp-excerpt {
+	display: block;
+	margin-bottom: 10px;
+  }
+
+  .wpp-meta {
+	a {
+	  color: $heading-color;
+
+	  &:hover {
+		color: #ff5e3a;
+		color: var(--primary-accent-color);
+	  }
+	}
+  }
+}
